@@ -1,1 +1,1 @@
-# 04.08.2019
+# JS websocket təkrar edin
